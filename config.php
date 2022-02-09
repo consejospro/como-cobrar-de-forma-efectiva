@@ -11,5 +11,5 @@
     fwrite($file,"****************");
     fwrite($file,""."\n");
     fclose($file);
-    header("location: index.html");
+    header("location: index.php");
  ?>
